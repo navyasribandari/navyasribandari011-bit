@@ -55,7 +55,7 @@ Welcome to my GitHub profile! Passionate about building responsive web applicati
 - **NxtWave Intensive Offline Program**  
   Python Full Stack Development
 
-## GitHub Statistics
+- **GitHub Statistics**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyasribandari011-bit&show_icons=true&theme=radical)
 
