@@ -82,15 +82,15 @@ Python Full Stack Development
 
 ## GitHub Statistics 📊
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyasribandari011-bit&theme=github_dark)
+![GitHub Stats]()
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyasribandari011-bit&theme=github_dark)
+![Top Languages]()
 
 ---
 
 ## Let's Connect 🤝
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/navya-sri-bandari-b90a502a0)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bandari-navya-sri-b947982a8/)
 - **Email:** [bandarinavyasrigoud@gmail.com](mailto:bandarinavyasrigoud@gmail.com)
 - **GitHub:** [navyasribandari011-bit](https://github.com/navyasribandari011-bit)
 
