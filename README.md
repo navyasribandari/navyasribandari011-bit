@@ -52,13 +52,20 @@ Aspiring Full Stack Developer from Hyderabad, India
 | **Early Detection of Mental Health Disorders Using NLP** | Uses NLP and machine learning techniques to analyze text for mental health-related classification. | Python, NLP, Pandas, Random Forest, Tkinter | — |
 
 
+
 #### GitHub stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=navyasribandari011-bit&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=navyasribandari011-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=navyasribandari011-bit&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=navyasribandari011-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=navyasribandari011-bit&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=navyasribandari011-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 #### Let's connect
