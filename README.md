@@ -38,6 +38,7 @@
 | **ACCA React Project** | Responsive educational website for ACCA aspirants with eligibility information, learning modules and placement assistance. | React.js, JavaScript, Tailwind CSS | [Code](https://github.com/navyasribandari/ACCA_React_Project) |
 | **Early Detection of Mental Health Disorders Using NLP** | GUI application that analyzes sentiment from social media text using preprocessing and a Random Forest model. | Python, Pandas, NLP, Random Forest, Tkinter | Repository link not available |
 
+
 ## GitHub stats
 
 <p align="center">
@@ -48,6 +49,7 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/4F46E5/navyasribandari011-bit" alt="GitHub contribution calendar">
 </p>
+
 
 ## Let's connect
 
