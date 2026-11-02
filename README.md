@@ -51,13 +51,15 @@ Aspiring Full Stack Developer from Hyderabad, India
 | **ACCA React Project** | Responsive educational website with ACCA information, learning modules and placement assistance. | React, JavaScript, Tailwind CSS | [Code](https://github.com/navyasribandari/ACCA_React_Project) |
 | **Early Detection of Mental Health Disorders Using NLP** | Uses NLP and machine learning techniques to analyze text for mental health-related classification. | Python, NLP, Pandas, Random Forest, Tkinter | — |
 
+
 #### GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyasribandari011-bit&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=navyasribandari011-bit&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyasribandari011-bit&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=navyasribandari011-bit&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=navyasribandari011-bit&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=navyasribandari011-bit&theme=tokyonight&hide_border=true)
+
 
 #### Let's connect
 
